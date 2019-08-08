@@ -1,4 +1,4 @@
-# Mastering Ethereum
+# Mastering Ethereums
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/ethereumbook/Lobby)
 <!---[![Waffle.io - Columns and their card count](https://badge.waffle.io/ethereumbook/ethereumbook.svg?columns=all)](https://waffle.io/ethereumbook/ethereumbook)
